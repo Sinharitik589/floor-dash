@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>9718A05B-C2FB-49D5-BE08-7FD932D0AB9B</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BRDP---1-hover-2" transform="translate(-1089.000000, -245.000000)">
+            <g id="Table-Full-State-01" transform="translate(117.000000, 157.000000)">
+                <g id="Group-8-Copy-3" transform="translate(908.000000, 78.000000)">
+                    <g id="arrow-/-caret_down-copy-21" transform="translate(64.000000, 10.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="arrow-/-caret_down-(Background/Mask)-Copy-20"></g>
+                        <path d="M9.49999989,11.9999998 L14.4999999,16.9999998 L14.4999999,6.99999978 L9.49999989,11.9999998 Z" id="arrow-/-caret_down" fill="#2E3A59" fill-rule="nonzero" mask="url(#mask-2)" transform="translate(12.000000, 12.000000) rotate(-90.000003) translate(-12.000000, -12.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

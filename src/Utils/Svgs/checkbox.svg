@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FE87BE53-F179-451B-811B-D04BE9E23D42</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.313725 0 0 0 0 0.313725 0 0 0 0 0.313725 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BRDP---5" transform="translate(-1329.000000, -164.000000)">
+            <g id="Table-Full-State-03-Tag-States" transform="translate(114.000000, 157.000000)">
+                <g id="Group-24" transform="translate(1176.000000, 7.000000)">
+                    <g id="basic-/-checkbox_checked" transform="translate(39.000000, 0.000000)" filter="url(#filter-1)">
+                        <g id="basic-/-checkbox_checked-copy">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <g id="basic-/-checkbox_checked-(Background/Mask)"></g>
+                            <path d="M5,7 L5,17 C5,18.1029997 5.89699996,19 7,19 L17,19 C18.1029997,19 19,18.1029997 19,17 L19,7 C19,5.89699996 18.1029997,5 17,5 L7,5 C5.89699996,5 5,5.89699996 5,7 Z M7,7 L17,7 L17.0020008,17 L7,17 L7,7 Z M9.69999981,11.2849998 L8.30000019,12.7150002 L11.0039997,15.3620005 L15.7030001,10.7110004 L14.2969999,9.28899956 L10.9960003,12.5559998 L9.69999981,11.2849998 Z" id="basic-/-checkbox_checked" fill="#2E3A59" mask="url(#mask-3)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="17px" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>16B47AE5-0D92-4E29-B8D0-8858466E3B37</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.074510 0 0 0 0 0.235294 0 0 0 0 0.545098 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="17" height="17"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BRDP---2-(Published)" transform="translate(-1312.000000, -249.000000)">
+            <g id="Table-Full-State-01" transform="translate(116.670000, 157.000000)">
+                <g id="system-/-window" transform="translate(1187.000000, 78.000000)" filter="url(#filter-1)">
+                    <g transform="translate(9.000000, 14.000000)" id="system-/-window-copy-2">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <g id="system-/-window-(Background/Mask)-Copy"></g>
+                        <path d="M14.1666667,14.875 C14.9479584,14.875 15.5833333,14.239625 15.5833333,13.4583333 L15.5833333,3.54166667 C15.5833333,2.76037497 14.9479584,2.125 14.1666667,2.125 L2.83333333,2.125 C2.05204163,2.125 1.41666667,2.76037497 1.41666667,3.54166667 L1.41666667,13.4583333 C1.41666667,14.239625 2.05204163,14.875 2.83333333,14.875 L14.1666667,14.875 Z M2.83333333,4.95833333 L14.1666667,4.95833333 L14.1673746,13.4583333 L2.83333333,13.4583333 L2.83333333,4.95833333 Z" id="system-/-window" fill="#2E3A59" mask="url(#mask-3)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

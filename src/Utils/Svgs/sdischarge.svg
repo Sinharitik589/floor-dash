@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>FB60CF96-F464-4401-96F5-4C34B4C72144</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.682353 0 0 0 0 0.717647 0 0 0 0 0.749020 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="16" height="16"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BRDP----Split-1" transform="translate(-1513.000000, -564.000000)">
+            <g id="Group-37" transform="translate(1498.000000, 448.000000)">
+                <g id="Group-35" transform="translate(15.000000, 56.000000)">
+                    <g id="arrow-/-long_bottom_up" transform="translate(0.000000, 60.000000)" filter="url(#filter-1)">
+                        <g transform="translate(8.000000, 8.000000) scale(1, -1) translate(-8.000000, -8.000000) " id="arrow-/-long_bottom_up-copy">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <g id="arrow-/-long_bottom_up-(Background/Mask)-Copy"></g>
+                            <path d="M4.68095264,10.3666673 L4.67619078,7.99999768 L3.33333374,7.99999768 L3.33333374,12.6666663 L8.00000104,12.6666663 L8.00000104,11.3238101 L5.63333377,11.3190481 L12.6666671,4.28571351 L11.7142866,3.33333293 L4.68095264,10.3666673 Z" id="arrow-/-long_bottom_up" fill="#AEB7BF" fill-rule="nonzero" mask="url(#mask-3)" transform="translate(8.000000, 8.000000) rotate(-179.999995) translate(-8.000000, -8.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

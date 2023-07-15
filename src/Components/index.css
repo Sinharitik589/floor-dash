@@ -1,0 +1,278 @@
+.nav-tab {
+  height: 50px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 550;
+  color: #353535;
+}
+
+.nav-tab-selected {
+  background-color: white;
+  color: #143D8B;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.h-max-content {
+  height: max-content;
+}
+
+.w-max-content {
+  width: max-content;
+}
+
+.top-tab {
+  font-size: 14px;
+  height: 30px;
+  background-color: #F0F2F7;
+}
+
+.input-val {
+  height: 30px;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow-x: hidden;
+  border: 1px solid #C3C8D5;
+  border-radius: 3px;
+}
+
+.input-val:focus-visible {
+  border: 1px solid #008FFF;
+  border-radius: 3px;
+  background-color: rgba(0, 143, 255, 0.05);
+  outline: none;
+}
+
+.top-option-tab {
+  background-color: #F0F2F7;
+  font-size: 9px;
+}
+
+.top-option-tab label {
+  text-align: center;
+  width: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.input-row .top-option-tab {
+  background-color: rgba(112, 161, 255, 0.15);
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  color: #fff;
+  text-decoration: none;
+  background-color: #343a40;
+}
+
+input::-webkit-calendar-picker-indicator {
+  padding-inline-start: 0;
+  margin: 0;
+  padding-left: 1px;
+}
+
+.comval {
+  border-bottom: 1px solid #DBDEE6;
+  height: 50px;
+}
+
+.comval .top-option-tab {
+  font-size: 13px;
+  background-color: white;
+}
+
+.comval:hover .top-option-tab {
+  background-color: #eeeeee;
+}
+
+.option-menu {
+  top: 100%;
+  right: 0;
+  min-width: 150px;
+  width: fit-content;
+  height: fit-content;
+  z-index: 1000;
+  background-color: white;
+}
+
+.split-date-option {
+  width: 300px;
+}
+
+.sorting-opt {
+  width: 250px;
+  text-align: left;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+.sortby-opt {
+  cursor: pointer;
+  padding: 5px;
+  color: #34495E;
+  font-weight: 550;
+  text-align: center;
+  margin-right: 5px;
+  border-radius: 14px;
+  background-color: #F0F2F7;
+}
+
+.sortby-opt-selected {
+  background-color: rgba(20, 61, 139, 0.21);
+  color: #133C8B;
+}
+
+.main-search {
+  outline: none;
+  border: none;
+  background: transparent;
+}
+
+.main-search-container {
+  border: 1px solid #C3C8D5;
+  height: 44px;
+  width: 321px;
+}
+
+.master-edit {
+  height: 60px;
+  background-color: white;
+  width: 300px;
+}
+
+.selected-submenu {
+  background-color: #274C95;
+}
+
+.header-icon-container i {
+  color: #8a8a8a;
+  font-size: 24px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.sidebar {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.button {
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  background-color: #133C8B;
+  color: white;
+  font-size: 16px;
+  font-weight: 550;
+}
+
+.button:focus {
+  outline: none;
+  border: none;
+}
+
+.button:hover {
+  outline: none;
+  border: none;
+}
+
+.header-text {
+  font-size: 36px;
+  color: #133C8B;
+  font-weight: lighter;
+}
+
+.top {
+  background-color: #F0F2F7;
+}
+
+.left-border {
+  border-left: 1px solid #DBDEE6;
+}
+
+.publish-success {
+  background-color: rgba(11, 174, 0, 0.06);
+  color: #0BAE00;
+}
+
+.badge {
+  text-align: center;
+  width: fit-content;
+  padding: 2px 4px;
+  border-radius: 7.5px;
+}
+
+.new-badge {
+  border: 1px solid #0BAE00;
+  background-color: rgba(11, 174, 0, 0.12);
+  color: #0BAE00;
+}
+
+.split-badge {
+  color: #F4E500;
+  border: 1px solid #F4E500;
+  background-color: rgba(244, 229, 0, 0.12);
+}
+
+.edited-badge {
+  color: #F49000;
+  border: 1px solid #F49000;
+  background-color: rgba(244, 144, 0, 0.12);
+}
+
+.conflict-badge {
+  border: 1px solid #FF0000;
+  color: #FF0000;
+  background-color: rgba(255, 0, 0, 0.12);
+}
+
+.deleted-badge {
+  border: 1px solid #555550;
+  color: #555550;
+  background-color: rgba(85, 85, 80, 0.12);
+}
+
+.small-font {
+  font-size: 12px;
+}
+
+.text-color {
+  color: #133C8B;
+}
+
+.profile-container {
+  min-width: 314px;
+  width: max-content;
+  height: 226px;
+  background-color: #274C95;
+  left: 98%;
+  top: -40px;
+  z-index: 4000;
+}
+
+.profile-pic {
+  background-color: #133C8B;
+  font-size: 95px;
+  line-height: 1;
+  color: #274C95;
+}
+
+.toast-info {
+  width: fit-content;
+  color: white;
+  z-index: 4000;
+}
+
+.sort-button {
+  font-size: 12px;
+}
+
+.text-black {
+  color: black;
+}
+/*# sourceMappingURL=index.css.map */

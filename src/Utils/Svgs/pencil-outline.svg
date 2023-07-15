@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>F49F58DF-E7A1-47CF-8F7E-48ECB24ECCAD</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.078431 0 0 0 0 0.239216 0 0 0 0 0.545098 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BRDP---1-hover-2" transform="translate(-1729.000000, -464.000000)">
+            <g id="Group-15" transform="translate(1718.000000, 448.000000)">
+                <g id="pencil-outline" transform="translate(11.000000, 15.000000)" filter="url(#filter-1)">
+                    <g transform="translate(0.000000, 1.000000)">
+                        <path d="M7.98666852,4.33273157 L8.66546313,5.01152618 L2.10859603,11.5539508 L1.44424386,11.5539508 L1.44424386,10.8895987 L7.98666852,4.33273157 M10.5863075,0 C10.405777,0 10.2180253,0.0722121928 10.0808221,0.209415359 L8.75933898,1.53089849 L11.4672962,4.23885571 L12.7887793,2.91737259 C13.0704069,2.63574504 13.0704069,2.16636578 12.7887793,1.89918067 L11.099014,0.209415359 C10.9545896,0.0649909735 10.7740592,0 10.5863075,0 M7.98666852,2.30356895 L0,10.2902375 L0,12.9981947 L2.70795723,12.9981947 L10.6946257,5.01152618 L7.98666852,2.30356895 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
